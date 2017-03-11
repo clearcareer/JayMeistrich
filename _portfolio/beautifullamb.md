@@ -1,7 +1,9 @@
 ---
+title: Beautifullamb
+categories:
+- 3D
 name: Astronaut
-category: 3D
-image: /assets/images/astropic.jpg
-link: 'http://www.beautifullamb.ca'
+image: "/assets/images/astropic.jpg"
+link: http://www.beautifullamb.ca
 ---
 

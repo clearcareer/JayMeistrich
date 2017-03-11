@@ -1,6 +1,9 @@
 ---
+title: Buzzlightyear
+categories:
+- 3D
 name: Buzz Lightyear
-category: 3D
 image: assets/images/portfolio/project-image-1.jpg
 link: http://www.google.ca
 ---
+
